@@ -44,7 +44,7 @@ body {
 }
 
 .language:hover {
-    color: orange;
+    color: #bf0303ff;
     transition: all 0.3s ease 0s;
 }
 
