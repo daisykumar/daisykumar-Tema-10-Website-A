@@ -29,7 +29,6 @@ body {
 
     color: white;
     text-decoration: none;
-    font-size: 1rem;
     flex: 1;  /* ADD FLEX : IMPORTANT */
 }
 
@@ -44,7 +43,7 @@ body {
 }
 
 .language:hover {
-    color: #dd5a2b;
+    color: #bf0303ff;
     transition: all 0.3s ease 0s;
 }
 
@@ -153,12 +152,12 @@ body {
     font-size: 100px;
     border-top: 12px solid #bf0303ff;
     text-align: center;
-    width: 55%;
+    width: 80%;
     font-weight: 700;
 }
 
 .subheading {
-    width: 55%;
+    width: 80%;
     text-align: center;
     font-weight: 400;
     font-size: 60px;
